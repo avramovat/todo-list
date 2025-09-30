@@ -47,7 +47,7 @@ git clone https://github.com/avramovat/todo-list.git
 ### 2. Navigate into the folder
    
 ```bash
-cd todo-list
+cd todo-react
 ```
 ### 3. Install dependencies
    
